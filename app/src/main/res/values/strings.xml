@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ROnak</string>
+    <string name="tokyo_tower"> Tokyo Tower</string>
+    <string name="dob">23 December 1958</string>
+    <string name="crator">Tachū Naitō</string>
+    <string name="skytree"> Tokyo Skytree</string>
+    <string name="dob1"> 29 February 2012</string>
+    <string name="Creator">Nikken Sekkei</string>
+    <string name="dottonobori"> Dōtonbori</string>
+    <string name="dob2"> 1612</string>
+    <string name="founder">Doton Yasui</string>
+    <string name="Osaka_Castle"> Osaka Castle</string>
+    <string name="dob3"> 1597 </string>
+    <string name="cReatore"> Toyotomi Hideyoshi</string>
+
+
+</resources>
